@@ -19,7 +19,7 @@
 * #### Language
   * [ Learn Java ](https://github.com/pasudo123/LearnJava)
   * [ Learn Javascript ](#) (업데이트 예정)
-  * [ Learn Python ](https://github.com/pasudo123/LearnPython)]
+  * [ Learn Python ](https://github.com/pasudo123/LearnPython)
 * #### Datastructure & Alogorithm
   * [ GeeksforGeeks PS ](https://github.com/pasudo123/Algorithms/tree/master/GeeksForGeeks)
   * [ LeetCode PS ](https://github.com/pasudo123/Algorithms/tree/master/LeetCode)
