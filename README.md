@@ -27,14 +27,12 @@
   * [ DataStructure ](#) (업데이트 예정)
   * [ Algorithm ](#) (업데이트 예정)
 #### Project
-* 2016년
-  * [ Crossword Game ](https://github.com/pasudo123/Crossword)
+* _2016년_
+  * [ Crossword Game ](https://github.com/pasudo123/Crossword)
   * [ QuickMedic ](https://play.google.com/store/apps/details?id=quickmedic.boxsoftware.jhkim.quickmedic)  
-Google Play Store 등록 및 2016년 충북 공공데이터 앱 공모전 최우수상 수상
-* 2017년
-  * [ ReviewHO ](https://github.com/pasudo123/Review-HO)    
-  졸업작품
-* 2018년
+  ( Google Play Store 등록 및 2016년 충북 공공데이터 앱 공모전 최우수상 수상 )
+* _2017년_
+  * [ ReviewHO ](https://github.com/pasudo123/Review-HO)    
+* _2018년_
   * [ SmallScaleProject ](https://github.com/pasudo123/SmallScaleProject)    
-  소규모 프로젝트 나열
 
