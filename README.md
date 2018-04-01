@@ -1,8 +1,12 @@
 # overview
-나는 누구인가.  
-( 지속적인 업데이트 예정 )
+~~~
+Being Me.
+~~~
  
 ## Intro 
+* #### E-Mail
+  * pasudo123@naver.com
+  * pasudo222@gmail.com
 * #### Github
   * <https://github.com/pasudo123>
 * #### Tistory
