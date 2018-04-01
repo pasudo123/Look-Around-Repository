@@ -1,9 +1,8 @@
-# Look Around
 ## overview
 나는 누구인가.  
 ( 지속적인 업데이트 예정 )
  
-## Intro
+## Intro 
 * #### Github
   * <https://github.com/pasudo123>
 * #### Tistory
@@ -15,6 +14,7 @@
 
 
 ## Repository
+레파지토리 나열 및 정리
 * #### Language
   * [ Learn Java ](https://github.com/pasudo123/LearnJava)
   * [ Learn Javascript ](#) (업데이트 예정)
