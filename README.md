@@ -30,6 +30,10 @@ Being Me.
   * [ Kakao PS ](https://github.com/pasudo123/Algorithms/tree/master/Kakao)
   * [ DataStructure ](#) (업데이트 예정)
   * [ Algorithm ](#) (업데이트 예정)
+* #### Book Review
+  * [ SpecializeDoubleR ](https://github.com/pasudo123/SpecializeDoubleR)
+* #### Computer Science
+  * [ SoftwareZeroToALL ](https://github.com/pasudo123/SoftwareZeroToALL)
 * #### Project
   * [ Crossword Game ](https://github.com/pasudo123/Crossword)
   * [ QuickMedic ](https://play.google.com/store/apps/details?id=quickmedic.boxsoftware.jhkim.quickmedic)  
