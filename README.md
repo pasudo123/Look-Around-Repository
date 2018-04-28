@@ -24,16 +24,19 @@ Being Me.
   * [ Learn Java ](https://github.com/pasudo123/LearnJava)
   * [ Learn Javascript ](#) (업데이트 예정)
   * [ Learn Python ](https://github.com/pasudo123/LearnPython)
-* #### Datastructure & Alogorithm
+  
+* #### Alogorithm & Data Structure & PS : Problem Solving
+  * [ Algorithm & Data structure ](https://github.com/pasudo123/Algorithms)
   * [ GeeksforGeeks PS ](https://github.com/pasudo123/Algorithms/tree/master/GeeksForGeeks)
   * [ LeetCode PS ](https://github.com/pasudo123/Algorithms/tree/master/LeetCode)
   * [ Kakao PS ](https://github.com/pasudo123/Algorithms/tree/master/Kakao)
-  * [ DataStructure ](#) (업데이트 예정)
-  * [ Algorithm ](#) (업데이트 예정)
+  
 * #### Book Review
   * [ SpecializeDoubleR ](https://github.com/pasudo123/SpecializeDoubleR)
+  
 * #### Computer Science
   * [ SoftwareZeroToALL ](https://github.com/pasudo123/SoftwareZeroToALL)
+  
 * #### Project
   * [ Crossword Game ](https://github.com/pasudo123/Crossword)
   * [ QuickMedic ](https://play.google.com/store/apps/details?id=quickmedic.boxsoftware.jhkim.quickmedic)  
