@@ -5,7 +5,7 @@ Being Me.
 
 ## Intro 
 * #### E-Mail
-  * pasudo123@naver.com
+  * pasudo123@naver.com ( _main_ )
   * pasudo222@gmail.com
 * #### Github
   * <https://github.com/pasudo123>
