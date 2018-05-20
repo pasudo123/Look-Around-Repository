@@ -24,6 +24,7 @@ Being Me.
   * [ Learn Java ](https://github.com/pasudo123/LearnJava)
   * [ Learn Javascript ](#) (업데이트 예정)
   * [ Learn Python ](https://github.com/pasudo123/LearnPython)
+  * [ Learn SQL ](https://github.com/pasudo123/LearnSQL)
   
 * #### Alogorithm & Data Structure & PS : Problem Solving
   * [ Algorithm & Data structure ](https://github.com/pasudo123/Algorithms)
