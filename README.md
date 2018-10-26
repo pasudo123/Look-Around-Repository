@@ -50,5 +50,6 @@ Being Me.
   * [ ReviewHO ](https://github.com/pasudo123/Review-HO)    
   * [ SmallScaleProject ](https://github.com/pasudo123/SmallScaleProject)
   * [ WebBoard ](https://github.com/pasudo123/WebBoard)
+  * [ DoublerBot ](https://github.com/pasudo123/DoublerBot)
 
 
