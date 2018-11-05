@@ -1,4 +1,4 @@
-# 🏞 A River runs through it.
+# A River runs through it.
 
 ## Intro 
 * #### E-Mail
