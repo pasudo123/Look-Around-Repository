@@ -13,8 +13,8 @@
   * [ _doubler_ Info ](https://www.acmicpc.net/user/doubler)
   * <https://www.acmicpc.net/>
 * #### Codeforces
-  * _Id_ : doubler_R
-  * [ _doubler_Info_ ](http://codeforces.com/profile/double_R)
+  * _Id_ : PASUDO
+  * [ _PASUDO_Info_ ](http://codeforces.com/profile/PASUDO)
   * <http://codeforces.com/>
   
   
